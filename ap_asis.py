@@ -58,7 +58,7 @@ sound = BytesIO()
 
 placeholder = st.container()
 
-placeholder.title("Daniela, tu asistente de salud")
+placeholder.title("Daniela, tu asistente de compra de partes de computadoras")
 stt_button = Button(label='SPEAK', button_type='success', margin = (5, 5, 5, 5), width=200)
 
 
